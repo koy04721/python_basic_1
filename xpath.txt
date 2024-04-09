@@ -1,1 +1,0 @@
-#s_content > div.section > ul > li:nth-child(1) > dl > dt > a
